@@ -3,4 +3,10 @@
     <string name="app_name">एंड्रॉयड </string>
     <string name="hello_message">नमस्ते</string>
     <string name="ButtonText"> मैं एक बटन हूँ</string>
+    <string name="switch1">बदलना</string>
+    <string name="check_this_out">इसकी जांच करें</string>
+    <string name="todo">करने के लिए</string>
+    <string name="name">यहाँ नाम दर्ज करें</string>
+    <string name="snackON" >स्विच अब चालू है</string>
+    <string name="snackOFF" >स्विच अब बंद है</string>
 </resources>

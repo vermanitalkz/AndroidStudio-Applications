@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toast_message" />
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="Profile">TextView</string>
+    <string name="email">Name</string>
+    <string name="enterName">Name</string>
+    <string name="LoginButton">Button</string>
+</resources>

@@ -8,4 +8,7 @@
     <string name="enterName">Name</string>
     <string name="LoginButton">Button</string>
     <string name="todo">TODO</string>
+    <string name="to1">TODO</string>
+    <string name="emailView">TextView</string>
+    <string name="Svaebutton">Save Data</string>
 </resources>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Android Labs</string>
+    <string name="app_name">Android Lab 4</string>
     <string name="hello_message">Enter your Email</string>
     <string name="ButtonText">I\'m a button</string>
     <string name="textview">Main Activity</string>
@@ -7,7 +7,11 @@
     <string name="button">Login</string>
     <string name="Profile">Profile View</string>
     <string name="email">Enter Your Email</string>
+    <string name="Address" translatable="false">Address</string>
     <string name="enterName">Enter Your Name</string>
-    <string name="PicButton" translatable="false">Take Picture</string>
+    <string name="PicButton" translatable="false">Clear Data</string>
     <string name="todo">TODO</string>
+    <string name="to1">TODO</string>
+    <string name="emailView">TextView</string>
+    <string name="Svaebutton">Save Data</string>
 </resources>

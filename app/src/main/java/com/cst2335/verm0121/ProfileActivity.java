@@ -27,7 +27,7 @@ public class ProfileActivity extends AppCompatActivity {
         setContentView(R.layout.activity_profile);
 
         Log.e(TAG, "In function: onCreate");
-        ViewImg = findViewById(R.id.takePicture);
+        ViewImg = findViewById(R.id.imageView);
         Button takePictureButton = findViewById(R.id.button);
         
         takePictureButton.setOnClickListener(v -> dispatchTakePictureIntent());
@@ -37,7 +37,7 @@ public class ProfileActivity extends AppCompatActivity {
                 new ActivityResultCallback<ActivityResult>() {
                     @Override
                     public void onActivityResult(ActivityResult result) {
-                        ImageView ViewImg = findViewById(R.id.takePicture);
+                        ImageView ViewImg = findViewById(R.id.imageView);
                         if (result.getResultCode() == Activity.RESULT_OK) {
                             Intent data = result.getData();
                             assert data != null;

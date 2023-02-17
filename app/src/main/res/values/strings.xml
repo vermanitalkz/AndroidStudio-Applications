@@ -13,5 +13,5 @@
     <string name="todo">TODO</string>
     <string name="to1">TODO</string>
     <string name="emailView">TextView</string>
-    <string name="Svaebutton">Save Data</string>
+    <string name="SaveButton" translatable="false">Save Data</string>
 </resources>

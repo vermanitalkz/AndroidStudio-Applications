@@ -3,4 +3,16 @@
     <string name="app_name">एंड्रॉयड </string>
     <string name="hello_message">नमस्ते</string>
     <string name="ButtonText"> मैं एक बटन हूँ</string>
+    <string name="textview">मुख्य गतिविधि</string>
+    <string name="message1">अपना कूटशब्द भरें</string>
+    <string name="button">लॉग इन करें</string>
+    <string name="Profile">प्रोफ़ाइल दृश्य</string>
+    <string name="email">अपना ईमेल दर्ज करें</string>
+    <string name="Address">पता</string>
+    <string name="enterName">अपना नाम दर्ज करें</string>
+    <string name="PicButton">स्पष्ट डेटा</string>
+    <string name="todo">ऐसा करने के लिए</string>
+    <string name="to1">ऐसा करने के लिए</string>
+    <string name="emailView">व्याख्यान दर्शन</string>
+    <string name="SaveButton">डेटा सहेजें</string>
 </resources>

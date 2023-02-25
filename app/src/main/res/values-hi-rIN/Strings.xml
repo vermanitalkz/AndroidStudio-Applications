@@ -3,4 +3,5 @@
     <string name="app_name">एंड्रॉयड </string>
     <string name="hello_message">नमस्ते</string>
     <string name="ButtonText"> मैं एक बटन हूँ</string>
+    <string name="name"></string>
 </resources>

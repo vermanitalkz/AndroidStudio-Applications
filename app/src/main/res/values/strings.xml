@@ -3,4 +3,6 @@
     <string name="hello_message">Type Your Password</string>
     <string name="ButtonText">Login</string>
     <string name="name"></string>
+    <string name="textview">Message goes here</string>
+    <string name="textview1">Time goes here</string>
 </resources>

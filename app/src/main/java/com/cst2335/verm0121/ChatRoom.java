@@ -9,9 +9,14 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import com.cst2335.verm0121.databinding.ActivityChatRoomBinding;
+import com.cst2335.verm0121.databinding.SentMessageBinding;
+
 public class ChatRoom extends AppCompatActivity {
 
+    
     ActivityChatRoomBinding binding;
+//    ActivityChatRoomBinding binding;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

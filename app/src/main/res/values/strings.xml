@@ -5,4 +5,7 @@
     <string name="name"></string>
     <string name="textview">Message goes here</string>
     <string name="textview1">Time goes here</string>
+    <string name="button">Send</string>
+    <string name="empty"></string>
+    <string name="recieve">Receive</string>
 </resources>

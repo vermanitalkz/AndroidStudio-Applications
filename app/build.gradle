@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'com.cst2335.verm0121'
-    compileSdk 32
+    compileSdkVersion 33
 
     dataBinding{
         enabled=true

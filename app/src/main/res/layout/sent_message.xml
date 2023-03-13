@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    >
 
     <TextView
         android:id="@+id/message"
-        android:layout_width="110dp"
-        android:layout_height="36dp"
+        android:layout_width="123dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="4dp"
         android:text="@string/textview"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintStart_toEndOf="@+id/imageView"
+        tools:layout_editor_absoluteY="0dp" />
 
     <TextView
         android:id="@+id/time"
-        android:layout_width="111dp"
-        android:layout_height="37dp"
-        android:layout_marginTop="36dp"
+        android:layout_width="125dp"
+        android:layout_height="36dp"
+        android:layout_marginStart="4dp"
         android:text="@string/textview1"
-        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/message"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="74dp"
+        android:layout_height="67dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/man_gae6f35674_1280" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
